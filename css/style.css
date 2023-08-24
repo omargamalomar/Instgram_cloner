@@ -96,9 +96,6 @@
   border-radius: 50% 50%;
   background: #000;
 }
-.sharta{
-  border-bottom: 1px solid#000;
-}
 @keyframes swing {
   0% {
     transform: rotate(3deg);
@@ -122,7 +119,7 @@
 
   .right-grid {
     margin-top: 5px;
-    margin-left: 30px;
+    margin-left: 25px;
   }
 }
 /* Apply styles for tablet  */
