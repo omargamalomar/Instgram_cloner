@@ -347,7 +347,7 @@ body {
   }
 }
 
-@media (max-width: 787px) {
+@media (max-width: 600px) {
   .main {
     display: none;
   }
@@ -355,7 +355,6 @@ body {
     display: block;
   }
   .navs {
-    display: inline-block;
     display: flex;
   }
   .news ul li:first-child {
@@ -381,5 +380,11 @@ body {
     padding-left: 0;
     padding-right: 0;
   }
-}
+  .my-feeds .feed-1 .image-1 img {
+    max-width: 100%;
+  }
+  .navs{
+    padding: 0;
+  }
+} 
 /* end media */

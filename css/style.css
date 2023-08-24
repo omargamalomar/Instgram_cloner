@@ -35,24 +35,25 @@
   font-size: 13px;
   color: #385185;
 }
-.facebook-login a,.account a{
-	text-decoration: none;
+.facebook-login a,
+.account a {
+  text-decoration: none;
 }
 .password {
   margin-left: 140px;
   font-size: 12px;
 }
 
-.passs{
-	position: relative;
+.passs {
+  position: relative;
 }
-.passs svg{
-	position: absolute;
-	right: 40px;
-	bottom: 10px;
-	color: #444;
-	font-size: 12px;
-	cursor: pointer;
+.passs svg {
+  position: absolute;
+  right: 40px;
+  bottom: 10px;
+  color: #444;
+  font-size: 12px;
+  cursor: pointer;
 }
 /* account text css */
 .account {
