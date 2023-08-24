@@ -54,7 +54,9 @@
   margin-left: 140px;
   font-size: 12px;
 }
-
+.sharta{
+  border-bottom: 1px solid#000;
+}
 .passs{
 	position: relative;
 }
