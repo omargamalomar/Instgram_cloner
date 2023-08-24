@@ -234,7 +234,7 @@ body {
   height: 510;
 }
 .my-feeds .feed-1 .image-1 video {
-  width: 380px;
+  width: 509px;
   height: 510;
 }
 .my-feeds .final-content p {
@@ -383,8 +383,9 @@ body {
   .my-feeds .feed-1 .image-1 img {
     max-width: 100%;
   }
-  .navs{
-    padding: 0;
+  .my-feeds .feed-1 .image-1 video {
+    width: 380px;
+    height: 510;
   }
 } 
 /* end media */
