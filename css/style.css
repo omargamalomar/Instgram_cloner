@@ -119,8 +119,7 @@
 
   .right-grid {
     margin-top: 5px;
-    margin-left: 25px;
-  }
+    }
 }
 /* Apply styles for tablet  */
 @media (min-width: 768px) and (max-width: 1024px) {
